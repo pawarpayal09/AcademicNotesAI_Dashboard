@@ -12,9 +12,9 @@ AcademicNotesAI is an LLM-powered study assistant where students chat with an AI
 6. (optional) python export_figures.py -> PNG of every chart in /figures
 
 ## Files
-• data.xlsx          the fused dataset 
-• data_prep.py       cleaning + feature engineering (dates, users, topic_group, prompt_words ...)
-• eda.py             exploratory data analysis
-• dashboard.py       Dash app: 6 KPI cards, 12 charts, 4 filters + reset
-• assets/style.css   dashboard styling 
-• export_figures.py  saves charts as images
+* data.xlsx          the fused dataset 
+* data_prep.py       cleaning + feature engineering (dates, users, topic_group, prompt_words ...)
+* eda.py             exploratory data analysis
+* dashboard.py       Dash app: 6 KPI cards, 12 charts, 4 filters + reset
+* assets/style.css   dashboard styling 
+* export_figures.py  saves charts as images
